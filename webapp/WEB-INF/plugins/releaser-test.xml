@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
+    
+    <!-- Plugin informations -->
+    <name>releaser-test</name>
+    <class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
+    <version>1.1.0</version>
+    <documentation/>
+    <installation/>
+    <changes/>
+    <user-guide/>
+    <description>openamidentity.plugin.description</description>
+    <provider>penamidentity.plugin.provider</provider>
+    <provider-url>http://lutece.paris.fr</provider-url>
+    <icon-url>images/admin/skin/feature_default_icon.png</icon-url>
+    <copyright>Copyright 2001-2013 Mairie de Paris</copyright>
+    <db-pool-required>0</db-pool-required>
+    
+
+	
+</plug-in>

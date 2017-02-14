@@ -31,7 +31,14 @@
     </repositories>
 
    
-
+	<dependencies>
+			  <dependency>
+				<groupId>fr.paris.lutece</groupId>
+				<artifactId>lutece-core</artifactId>
+				<version>[5.0.0,)</version>
+				<type>lutece-core</type>
+			</dependency>
+	 </dependencies>
     <properties>
         <componentName>plugin-releaser-test</componentName>
         <jiraProjectName>plugin-releaser-test</jiraProjectName>

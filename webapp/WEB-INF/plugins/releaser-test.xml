@@ -8,11 +8,11 @@
     <installation/>
     <changes/>
     <user-guide/>
-    <description>openamidentity.plugin.description</description>
-    <provider>penamidentity.plugin.provider</provider>
+    <description>releaser-test.plugin.description</description>
+    <provider>releaser-test.plugin.provider</provider>
     <provider-url>http://lutece.paris.fr</provider-url>
     <icon-url>images/admin/skin/feature_default_icon.png</icon-url>
-    <copyright>Copyright 2001-2013 Mairie de Paris</copyright>
+    <copyright>Copyright 2001-2017 Mairie de Paris</copyright>
     <db-pool-required>0</db-pool-required>
     
 

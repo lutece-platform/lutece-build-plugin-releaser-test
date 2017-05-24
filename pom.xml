@@ -39,10 +39,10 @@
 				<type>lutece-core</type>
 			</dependency>
 	 </dependencies>
-    <properties>
+      <properties>
         <componentName>plugin-releaser-test</componentName>
-        <jiraProjectName>plugin-releaser-test</jiraProjectName>
-        <jiraComponentId>12867</jiraComponentId>
+        <jiraProjectName>PLUGT</jiraProjectName>
+        <jiraComponentId>13691</jiraComponentId>
     </properties>
     
     <scm>

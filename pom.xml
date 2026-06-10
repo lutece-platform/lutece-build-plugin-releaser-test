@@ -10,7 +10,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>plugin-releaser-test</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>6.1.8-SNAPSHOT</version>
+    <version>6.1.9-SNAPSHOT</version>
     <name>Lutece releaser test</name>
 
     <repositories>

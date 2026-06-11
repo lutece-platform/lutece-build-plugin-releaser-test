@@ -40,6 +40,11 @@
             <version>[5.0.0,7.9.9)</version>
             <type>lutece-core</type>
         </dependency>
+<dependency>
+            <groupId>jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.0.5</version>
+        </dependency>
     </dependencies>
     <properties>
         <componentName>plugin-releaser-test</componentName>

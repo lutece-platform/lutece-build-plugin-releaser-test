@@ -10,11 +10,11 @@
     <artifactId>plugin-releaser-test</artifactId>
     <packaging>lutece-plugin</packaging>
     <name>Lutece releaser test</name>
-    <version>6.2.2-beta-02</version>
+    <version>6.2.2-SNAPSHOT</version>
     <scm>
         <connection>scm:git:https://github.com/lutece-platform/lutece-build-plugin-releaser-test.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-build-plugin-releaser-test.git</developerConnection>
-        <tag>plugin-releaser-test-6.2.2-beta-02</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/lutece-platform/lutece-build-plugin-releaser-test.git</url>
     </scm>
     <repositories>
